@@ -1,0 +1,13 @@
+{
+  "parts":[
+    {
+      "name":"lightGUI",
+      "client_hooks":{
+    	  "postAceInit":"ep_lightGUI/static/js/hooks"
+      },
+      "hooks":{
+    	 "clientVars":"ep_lightGUI/hooks"
+      }
+    }
+  ]
+}

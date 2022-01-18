@@ -1,0 +1,14 @@
+{
+  "name":"ep_lightgui",
+  "version":"0.1.2",
+  "description":"Lighten the web interface. No toolbar, no panel.",
+  "keywords":[
+    "lightweight",
+    "GUI",
+    "interface",
+    "Etherpad"
+  ],
+  "author":"Benoit Lathiere",
+  "license":"GPLv2",
+  "readmeFilename":"README.md"
+}
